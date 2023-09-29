@@ -89,6 +89,5 @@ python manage.py runserver
 
 Go to http://127.0.0.1:8000/ to view the application.
 
-### Copyright and License
 
-Copyright © 2022 Bob's Programming Academy. Code released under the MIT license.
+ Great Message from Shivam Verma (Verma ji) Always stay happy 
